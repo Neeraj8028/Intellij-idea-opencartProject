@@ -1,0 +1,31 @@
+21:57:04.073 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************   Starting TC001_AccountRegistrationTest ****************
+21:57:08.154 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************  Started Registering ****************
+21:57:09.369 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************** Registration Completed ****************
+21:57:16.111 [main] INFO  testCases.TC002_LoginTest - ******************** Starting TC002_LoginTest **********************
+21:57:16.118 [main] INFO  testCases.TC002_LoginTest - ******************** Clicking on My Account **********************
+21:57:16.259 [main] INFO  testCases.TC002_LoginTest - ******************** Clicking on Login **********************
+21:57:17.670 [main] INFO  testCases.TC002_LoginTest - ******************** Checking confirmation message **********************
+21:57:18.368 [main] INFO  testCases.TC002_LoginTest - ******************** Finished TC002_LoginTest **********************
+21:57:29.021 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC003_LoginTest **********************
+21:57:29.021 [main] INFO  testCases.TC003_LoginDDT - ********************Clicking My Account and Login  **********************
+21:57:29.510 [main] INFO  testCases.TC003_LoginDDT - ******************** Providing Login Credentials **********************
+21:57:30.447 [main] INFO  testCases.TC003_LoginDDT - ******************** Validating My Account Page **********************
+21:57:31.438 [main] INFO  testCases.TC003_LoginDDT - ******************** Finished TC003_LoginDDT  **********************
+21:57:31.442 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC003_LoginTest **********************
+21:57:31.443 [main] INFO  testCases.TC003_LoginDDT - ********************Clicking My Account and Login  **********************
+21:57:31.801 [main] INFO  testCases.TC003_LoginDDT - ******************** Providing Login Credentials **********************
+21:57:32.597 [main] INFO  testCases.TC003_LoginDDT - ******************** Validating My Account Page **********************
+21:57:52.755 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC003_LoginTest **********************
+21:57:52.755 [main] INFO  testCases.TC003_LoginDDT - ********************Clicking My Account and Login  **********************
+21:57:53.125 [main] INFO  testCases.TC003_LoginDDT - ******************** Providing Login Credentials **********************
+21:57:54.063 [main] INFO  testCases.TC003_LoginDDT - ******************** Validating My Account Page **********************
+21:57:54.728 [main] INFO  testCases.TC003_LoginDDT - ******************** Finished TC003_LoginDDT  **********************
+21:57:54.731 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC003_LoginTest **********************
+21:57:54.733 [main] INFO  testCases.TC003_LoginDDT - ********************Clicking My Account and Login  **********************
+21:57:55.197 [main] INFO  testCases.TC003_LoginDDT - ******************** Providing Login Credentials **********************
+21:57:55.933 [main] INFO  testCases.TC003_LoginDDT - ******************** Validating My Account Page **********************
+21:58:16.077 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC003_LoginTest **********************
+21:58:16.077 [main] INFO  testCases.TC003_LoginDDT - ********************Clicking My Account and Login  **********************
+21:58:16.410 [main] INFO  testCases.TC003_LoginDDT - ******************** Providing Login Credentials **********************
+21:58:17.399 [main] INFO  testCases.TC003_LoginDDT - ******************** Validating My Account Page **********************
+21:58:17.859 [main] INFO  testCases.TC003_LoginDDT - ******************** Finished TC003_LoginDDT  **********************

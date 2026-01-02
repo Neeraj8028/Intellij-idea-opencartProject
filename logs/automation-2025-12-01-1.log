@@ -1,0 +1,27 @@
+20:34:47.350 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+20:34:55.385 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************   Starting TC001_AccountRegistrationTest ****************
+20:34:59.894 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************  Started Registering ****************
+20:35:01.220 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************** Registration Completed ****************
+21:42:40.062 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\master.xml
+
+21:43:18.147 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\master.xml
+
+21:50:26.826 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\crossbrowsertesting.xml
+
+21:53:25.920 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\master.xml
+
+21:54:39.060 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\crossbrowsertesting.xml
+
+22:12:13.571 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\master.xml
+
+22:13:07.069 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\master.xml
+

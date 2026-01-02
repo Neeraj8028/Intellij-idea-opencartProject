@@ -1,0 +1,105 @@
+11:11:06.224 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\master.xml
+
+11:11:18.751 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC002_LoginTest **********************
+11:11:20.861 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC002_LoginTest **********************
+11:11:42.121 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC002_LoginTest **********************
+11:11:43.816 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC002_LoginTest **********************
+11:12:04.908 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC002_LoginTest **********************
+11:20:16.824 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\master.xml
+
+11:20:25.583 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC003_LoginTest **********************
+11:20:25.641 [main] INFO  testCases.TC003_LoginDDT - ********************Clicking My Account and Login  **********************
+11:20:26.193 [main] INFO  testCases.TC003_LoginDDT - ******************** Providing Login Credentials **********************
+11:20:27.697 [main] INFO  testCases.TC003_LoginDDT - ******************** Validating My Account Page **********************
+11:20:28.194 [main] INFO  testCases.TC003_LoginDDT - ******************** Finished TC003_LoginDDT  **********************
+11:20:28.205 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC003_LoginTest **********************
+11:20:28.207 [main] INFO  testCases.TC003_LoginDDT - ********************Clicking My Account and Login  **********************
+11:20:28.598 [main] INFO  testCases.TC003_LoginDDT - ******************** Providing Login Credentials **********************
+11:20:29.481 [main] INFO  testCases.TC003_LoginDDT - ******************** Validating My Account Page **********************
+11:20:49.539 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC003_LoginTest **********************
+11:20:49.541 [main] INFO  testCases.TC003_LoginDDT - ********************Clicking My Account and Login  **********************
+11:20:50.032 [main] INFO  testCases.TC003_LoginDDT - ******************** Providing Login Credentials **********************
+11:20:51.029 [main] INFO  testCases.TC003_LoginDDT - ******************** Validating My Account Page **********************
+11:20:51.580 [main] INFO  testCases.TC003_LoginDDT - ******************** Finished TC003_LoginDDT  **********************
+11:20:51.581 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC003_LoginTest **********************
+11:20:51.581 [main] INFO  testCases.TC003_LoginDDT - ********************Clicking My Account and Login  **********************
+11:20:52.271 [main] INFO  testCases.TC003_LoginDDT - ******************** Providing Login Credentials **********************
+11:20:53.100 [main] INFO  testCases.TC003_LoginDDT - ******************** Validating My Account Page **********************
+11:21:13.143 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC003_LoginTest **********************
+11:21:13.143 [main] INFO  testCases.TC003_LoginDDT - ********************Clicking My Account and Login  **********************
+11:21:13.552 [main] INFO  testCases.TC003_LoginDDT - ******************** Providing Login Credentials **********************
+11:21:14.640 [main] INFO  testCases.TC003_LoginDDT - ******************** Validating My Account Page **********************
+11:21:15.220 [main] INFO  testCases.TC003_LoginDDT - ******************** Finished TC003_LoginDDT  **********************
+11:45:32.206 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\grouping.xml
+
+11:46:54.794 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\grouping.xml
+
+11:47:02.881 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************   Starting TC001_AccountRegistrationTest ****************
+11:47:07.095 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************  Started Registering ****************
+11:47:08.468 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************** Registration Completed ****************
+11:47:14.533 [main] INFO  testCases.TC002_LoginTest - ******************** Starting TC002_LoginTest **********************
+11:47:14.541 [main] INFO  testCases.TC002_LoginTest - ******************** Clicking on My Account **********************
+11:47:14.672 [main] INFO  testCases.TC002_LoginTest - ******************** Clicking on Login **********************
+11:47:16.129 [main] INFO  testCases.TC002_LoginTest - ******************** Checking confirmation message **********************
+11:47:16.743 [main] INFO  testCases.TC002_LoginTest - ******************** Finished TC002_LoginTest **********************
+11:47:28.901 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\grouping.xml
+
+11:47:36.676 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************   Starting TC001_AccountRegistrationTest ****************
+11:47:40.979 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************  Started Registering ****************
+11:47:42.249 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************** Registration Completed ****************
+11:47:48.133 [main] INFO  testCases.TC002_LoginTest - ******************** Starting TC002_LoginTest **********************
+11:47:48.137 [main] INFO  testCases.TC002_LoginTest - ******************** Clicking on My Account **********************
+11:47:48.246 [main] INFO  testCases.TC002_LoginTest - ******************** Clicking on Login **********************
+11:47:49.696 [main] INFO  testCases.TC002_LoginTest - ******************** Checking confirmation message **********************
+11:47:50.322 [main] INFO  testCases.TC002_LoginTest - ******************** Finished TC002_LoginTest **********************
+11:47:59.575 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\grouping.xml
+
+11:48:06.728 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************   Starting TC001_AccountRegistrationTest ****************
+11:48:10.989 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************  Started Registering ****************
+11:48:12.273 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************** Registration Completed ****************
+11:48:23.404 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\grouping.xml
+
+11:48:33.188 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\grouping.xml
+
+11:51:17.316 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\grouping.xml
+
+11:56:53.466 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\grouping.xml
+
+12:13:18.595 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\grouping.xml
+
+12:13:25.118 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************   Starting TC001_AccountRegistrationTest ****************
+12:13:29.299 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************  Started Registering ****************
+12:13:30.534 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************** Registration Completed ****************
+12:15:39.489 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\grouping.xml
+
+12:17:44.321 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\grouping.xml
+
+12:17:51.732 [main] INFO  testCases.TC002_LoginTest - ******************** Starting TC002_LoginTest **********************
+12:17:51.777 [main] INFO  testCases.TC002_LoginTest - ******************** Clicking on My Account **********************
+12:17:51.913 [main] INFO  testCases.TC002_LoginTest - ******************** Clicking on Login **********************
+12:17:53.284 [main] INFO  testCases.TC002_LoginTest - ******************** Checking confirmation message **********************
+12:17:53.897 [main] INFO  testCases.TC002_LoginTest - ******************** Finished TC002_LoginTest **********************
+12:37:17.450 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\grouping.xml
+
+12:37:38.147 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\grouping.xml
+
+12:37:44.526 [main] INFO  testCases.TC002_LoginTest - ******************** Starting TC002_LoginTest **********************
+12:37:44.578 [main] INFO  testCases.TC002_LoginTest - ******************** Clicking on My Account **********************
+12:37:44.755 [main] INFO  testCases.TC002_LoginTest - ******************** Clicking on Login **********************
+12:37:46.259 [main] INFO  testCases.TC002_LoginTest - ******************** Checking confirmation message **********************
+12:37:46.841 [main] INFO  testCases.TC002_LoginTest - ******************** Finished TC002_LoginTest **********************

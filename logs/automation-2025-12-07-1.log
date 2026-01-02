@@ -1,0 +1,37 @@
+20:17:13.433 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\master.xml
+
+20:19:27.905 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Pravin\IdeaProjects\Opencart_Project\master.xml
+
+20:19:39.236 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************   Starting TC001_AccountRegistrationTest ****************
+20:19:46.440 [main] INFO  testCases.TC001_AccountRegistrationTest - ******************  Started Registering ****************
+20:19:48.513 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************** Registration Completed ****************
+20:19:55.144 [main] INFO  testCases.TC002_LoginTest - ******************** Starting TC002_LoginTest **********************
+20:19:55.151 [main] INFO  testCases.TC002_LoginTest - ******************** Clicking on My Account **********************
+20:19:55.261 [main] INFO  testCases.TC002_LoginTest - ******************** Clicking on Login **********************
+20:19:56.735 [main] INFO  testCases.TC002_LoginTest - ******************** Checking confirmation message **********************
+20:19:57.386 [main] INFO  testCases.TC002_LoginTest - ******************** Finished TC002_LoginTest **********************
+20:20:13.517 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC003_LoginTest **********************
+20:20:13.519 [main] INFO  testCases.TC003_LoginDDT - ********************Clicking My Account and Login  **********************
+20:20:13.981 [main] INFO  testCases.TC003_LoginDDT - ******************** Providing Login Credentials **********************
+20:20:15.429 [main] INFO  testCases.TC003_LoginDDT - ******************** Validating My Account Page **********************
+20:20:15.935 [main] INFO  testCases.TC003_LoginDDT - ******************** Finished TC003_LoginDDT  **********************
+20:20:15.939 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC003_LoginTest **********************
+20:20:15.942 [main] INFO  testCases.TC003_LoginDDT - ********************Clicking My Account and Login  **********************
+20:20:16.364 [main] INFO  testCases.TC003_LoginDDT - ******************** Providing Login Credentials **********************
+20:20:17.312 [main] INFO  testCases.TC003_LoginDDT - ******************** Validating My Account Page **********************
+20:20:37.510 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC003_LoginTest **********************
+20:20:37.510 [main] INFO  testCases.TC003_LoginDDT - ********************Clicking My Account and Login  **********************
+20:20:37.905 [main] INFO  testCases.TC003_LoginDDT - ******************** Providing Login Credentials **********************
+20:20:38.811 [main] INFO  testCases.TC003_LoginDDT - ******************** Validating My Account Page **********************
+20:20:39.446 [main] INFO  testCases.TC003_LoginDDT - ******************** Finished TC003_LoginDDT  **********************
+20:20:39.450 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC003_LoginTest **********************
+20:20:39.450 [main] INFO  testCases.TC003_LoginDDT - ********************Clicking My Account and Login  **********************
+20:20:39.855 [main] INFO  testCases.TC003_LoginDDT - ******************** Providing Login Credentials **********************
+20:20:40.589 [main] INFO  testCases.TC003_LoginDDT - ******************** Validating My Account Page **********************
+20:21:00.706 [main] INFO  testCases.TC003_LoginDDT - ******************** Starting TC003_LoginTest **********************
+20:21:00.708 [main] INFO  testCases.TC003_LoginDDT - ********************Clicking My Account and Login  **********************
+20:21:01.054 [main] INFO  testCases.TC003_LoginDDT - ******************** Providing Login Credentials **********************
+20:21:02.024 [main] INFO  testCases.TC003_LoginDDT - ******************** Validating My Account Page **********************
+20:21:02.532 [main] INFO  testCases.TC003_LoginDDT - ******************** Finished TC003_LoginDDT  **********************
